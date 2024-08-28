@@ -15,6 +15,14 @@
       "category": "Gastos",
       "price": 35,
       "createdAt": "2024-08-07T19:50:20.636Z"
+    },
+    {
+      "id": 3,
+      "description": "Rocketseat",
+      "type": "outcome",
+      "category": "Cursos",
+      "price": 1000,
+      "createdAt": "2024-08-07T19:54:20.636Z"
     }
   ]
 }
