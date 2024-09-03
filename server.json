@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "id": 1,
+      "id": "1",
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
@@ -9,7 +9,7 @@
       "createdAt": "2024-08-07T19:54:20.636Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "description": "Fast-food",
       "type": "outcome",
       "category": "Gastos",
@@ -17,12 +17,28 @@
       "createdAt": "2024-08-07T19:50:20.636Z"
     },
     {
-      "id": 3,
+      "id": "3",
       "description": "Rocketseat",
       "type": "outcome",
       "category": "Cursos",
       "price": 1000,
       "createdAt": "2024-08-07T19:54:20.636Z"
+    },
+    {
+      "id": "2924",
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-09-03T20:34:00.598Z"
+    },
+    {
+      "id": "7c5c",
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2024-09-03T20:48:53.163Z"
     }
   ]
 }
